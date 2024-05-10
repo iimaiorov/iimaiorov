@@ -11,8 +11,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iimaiorov)](https://github.com/iimaiorov/github-readme-stats)
 
 ## Projects:
-- <a target="_blank" href="https://github.com/ponomarev-iv1986/demoblaze_test_project.git">Демонстрационный проект по тестированию UI и API сайта "Product Store"</a>
-- <a target="_blank" href="https://github.com/ponomarev-iv1986/wiki_app_test_project.git">Демонстрационный проект по тестированию мобильного приложения Wikipedia для Android</a>
+- <a target="_blank" href="https://github.com/">Демонстрационный проект по тестированию UI и API сайта "Product Store"</a>
+- <a target="_blank" href="https://github.com/">Демонстрационный проект по тестированию мобильного приложения Wikipedia для Android</a>
 
 <!--
 **iimaiorov/iimaiorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
