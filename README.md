@@ -63,4 +63,3 @@ Here are some ideas to get you started:
 - [x] Различные файлы конфигураций для запуска тестов
 
 </br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/ElenaSeversk">t.me/ElenaSeversk</a>
