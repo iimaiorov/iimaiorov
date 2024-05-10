@@ -1,5 +1,19 @@
-### Добро пожаловать и привет! 
-Меня зовут Юрий.</br>
+# Hi there! 👋 I'm Yura
+
+### *Welcome to my repositories!*
+
+## Hard skills:
+
+<img src="icons/python_logo_and_wordmark.svg" height="40" width="40" /><img src="icons/requests.png" height="40" width="40" /><img src="icons/selenium.png" height="40" width="40" /><img src="icons/selene.png" height="40" width="40" /><img src="icons/selenoid.svg" height="40" width="40" /><img src="icons/pytest_logo.svg" height="40" width="40" /><img src="icons/allure_Report.svg" height="40" width="40" /><img src="icons/allure_EE.svg" height="40" width="40" /><img src="icons/jenkins.svg" height="40" width="40" /><img src="icons/docker.svg" height="40" width="40" /><img src="icons/appium.svg" height="40" width="40" /><img src="icons/browserstack.svg" height="40" width="40" /><img src="icons/jira.svg" height="40" width="40" />
+
+## Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iimaiorov)](https://github.com/iimaiorov/github-readme-stats)
+
+## Projects:
+- <a target="_blank" href="https://github.com/ponomarev-iv1986/demoblaze_test_project.git">Демонстрационный проект по тестированию UI и API сайта "Product Store"</a>
+- <a target="_blank" href="https://github.com/ponomarev-iv1986/wiki_app_test_project.git">Демонстрационный проект по тестированию мобильного приложения Wikipedia для Android</a>
+
 <!--
 **iimaiorov/iimaiorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,50 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<table width="100%" border='0'>
-   <tr> 
-    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
-   </tr>
-  </table>
-  </br>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iimaiorov)](https://github.com/iimaiorov/github-readme-stats)
-
-## Дипломный проект
-Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
-## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/iimaiorov/">litres-tests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Литрес.</br></br>
-:triangular_flag_on_post: Что особенного:
-
-- [x] Page Object
-- [x] Параметризованная сборка
-- [x] Интеграция с Jira
-- [x] Тестпланы авто- и ручного тестирования
-- [x] Задачи на дефекты
-
-
-## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="https://github.com/iimaiorov">open-library-api-tests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
-:heavy_check_mark: Реализованы автотесты Rest Api.</br></br>
-:triangular_flag_on_post: Что особенного:
-
-- [x] Описание модели получаемых данных с помощью библиотеки Lombok
-- [x] Лямбда-подход для описания Allure Step
-- [x] Шаблоны форматирования логов запросов
-
-
-## Тестирование мобильного приложения
-:link: Тестовый проект: <a target="_blank" href="https://github.com/iimaiorov">financisto-mobile-tests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
-:heavy_check_mark: Реализованы автотесты мобильного приложения.</br></br>
-:triangular_flag_on_post: Что особенного:
-
-- [x] Первоначальная формулировка шагов тесткейсов в Allure Testops и импорт их в IntelliJ Idea
-- [x] Степовой подход для описания Allure Step
-- [x] Различные файлы конфигураций для запуска тестов
-
-</br></br>
