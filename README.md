@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Yur
+# Hi there! 👋 I'm Yura
 
 ## Hard skills:
 
