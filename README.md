@@ -1,6 +1,4 @@
-# Hi there! 👋 I'm Yura
-
-### *Welcome to my repositories!*
+# Hi there! 👋 I'm Yur
 
 ## Hard skills:
 
