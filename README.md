@@ -8,9 +8,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iimaiorov)](https://github.com/iimaiorov/github-readme-stats)
 
-## Projects:
-- <a target="_blank" href="https://github.com/">Демонстрационный проект по тестированию UI и API"</a>
-- <a target="_blank" href="https://github.com/">Демонстрационный проект по тестированию мобильного приложения</a>
 
 <!--
 **iimaiorov/iimaiorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
