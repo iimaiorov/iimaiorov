@@ -14,7 +14,6 @@
 I am a QA engineer with over 4 years of experience in manual and automated testing of web, mobile applications, APIs, and databases. I work with Python, Pytest, Selenium, Postman, SQL, and traffic analysis tools. I strive for effective testing, process optimization, and task automation to ensure the release of a high-quality product.
 
 ## SKILLS
-- **Languages**: English (B1), Russian (native)
 - **Programming languages and Tools**: Python, Pytest, Requests, Selenium, Selene,  Appium, Allure, Docker, Gitlab, Jenkins, Postman,  Allure TestOps, BrowserStack
 - **Manual Testing Skills**: Functional Testing, API Testing (Postman, Swagger), Charles Proxy, Fiddler, Browser DevTools, SQL, Kibana, Kafka
 <!--
