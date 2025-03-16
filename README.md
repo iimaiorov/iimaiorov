@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm Automation AQA Engineer Yura
-- 🌱 I’m  **AQA Python**
+# Hi there! 👋 I'm AQA Engineer Yura
 - 🔭 I've been working as QA Engineer since 2020
 - 📫 Contacts:
 
@@ -12,13 +11,12 @@
 <img src="icons/python_logo_and_wordmark.svg" height="40" width="40" /><img src="icons/requests.png" height="40" width="40" /><img src="icons/selenium.png" height="40" width="40" /><img src="icons/selene.png" height="40" width="40" /><img src="icons/selenoid.svg" height="40" width="40" /><img src="icons/pytest_logo.svg" height="40" width="40" /><img src="icons/allure_Report.svg" height="40" width="40" /><img src="icons/allure_EE.svg" height="40" width="40" /><img src="icons/jenkins.svg" height="40" width="40" /><img src="icons/docker.svg" height="40" width="40" /><img src="icons/appium.svg" height="40" width="40" /><img src="icons/browserstack.svg" height="40" width="40" /><img src="icons/jira.svg" height="40" width="40" />
 
 ## ABOUT ME
-I am a Full Stack Quality Assurance Engineer with 4 years of commercial experience in all types of manual testing: web, mobile platforms (iOS / Android), API and database. 
-Strong skills in establishing QA processes, reporting progress and results to stakeholders. Highly detailed-oriented and hard-working engineer with great problem-solving skills
+I am a QA engineer with over 4 years of experience in manual and automated testing of web, mobile applications, APIs, and databases. I work with Python, Pytest, Selenium, Postman, SQL, and traffic analysis tools. I strive for effective testing, process optimization, and task automation to ensure the release of a high-quality product.
 
 ## SKILLS
 - **Languages**: English (B1), Russian (native)
-- **Programming languages and Tools**: Python, Pytest, Requests, Selenium, Selene,  Appium, PostreSQL, MySQL, Mongo, Redis, Allure, Docker, Gitlab, Jenkins, Postman, Charles Proxy, Fiddler, DevTools, Kibana, Jira, TestRail, Allure TestOps, Figma
-- **Technical skills**: Software Quality Assurance, Quality Control, Test Automation, Scripting, Test Planning,  Regression Testing, Test Cases, Agile Methodologies, Compliance, Documentation, Innovation, Collaboration, Customer Service, Communication Skills
+- **Programming languages and Tools**: Python, Pytest, Requests, Selenium, Selene,  Appium, Allure, Docker, Gitlab, Jenkins, Postman,  Allure TestOps, BrowserStack
+- **Manual Testing Skills**: Functional Testing, API Testing (Postman, Swagger), Charles Proxy, Fiddler, Browser DevTools, SQL, Kibana, Kafka
 <!--
 **iimaiorov/iimaiorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
