@@ -15,7 +15,7 @@ I am a QA engineer with over 4 years of experience in manual and automated testi
 
 ## My projects"
 <p align="center">
-<a href="https://github.com/jjfhj/wikipedia_mobile_test"><img width=45% title="UI automated tests for the Wikipedia mobile application using Selene, Appium, and Allure frameworks,BrowserStack, Android Studio" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=iimaiorov&repo=wiki&show_owner=true&theme=dracula"></a>
+<a href="https://github.com/jjfhj/wikipedia_mobile_test"><img width=45% title="UI automated tests for the Wikipedia mobile application using Selene, Appium, and Allure frameworks,BrowserStack, Android Studio" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=iimaiorov&repo=wiki&show_owner=true&theme=shadow_blue"></a>
 </p>
 <!--
 **iimaiorov/iimaiorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
