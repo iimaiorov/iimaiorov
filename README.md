@@ -13,7 +13,7 @@
 ## ABOUT ME
 I am a QA engineer with over 4 years of experience in manual and automated testing of web, mobile applications, APIs, and databases. I continuously invest in my professional development by staying current with emerging technologies and refining my testing skills.
 
-## My projects"
+## My projects
 <p align="center">
 <a href="https://github.com/iimaiorov/wiki"><img width=45% title="UI automated tests for the Wikipedia mobile application using Selene, Appium, and Allure frameworks,BrowserStack, Android Studio" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=iimaiorov&repo=wiki&show_owner=true&theme=shadow_blue"></a>
 </p>
