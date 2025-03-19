@@ -11,7 +11,7 @@
 <img src="icons/python_logo_and_wordmark.svg" height="40" width="40" /><img src="icons/requests.png" height="40" width="40" /><img src="icons/selenium.png" height="40" width="40" /><img src="icons/selene.png" height="40" width="40" /><img src="icons/selenoid.svg" height="40" width="40" /><img src="icons/pytest_logo.svg" height="40" width="40" /><img src="icons/allure_Report.svg" height="40" width="40" /><img src="icons/allure_EE.svg" height="40" width="40" /><img src="icons/jenkins.svg" height="40" width="40" /><img src="icons/docker.svg" height="40" width="40" /><img src="icons/appium.svg" height="40" width="40" /><img src="icons/browserstack.svg" height="40" width="40" /><img src="icons/jira.svg" height="40" width="40" />
 
 ## ABOUT ME
-I am a QA engineer with over 4 years of experience in manual and automated testing of web, mobile applications, APIs, and databases. I continuously invest in my professional development by staying current with emerging technologies and refining my testing skills.
+I am a QA engineer with over 4 years of experience in testing of web, mobile applications. I continuously invest in my professional development by staying current with emerging technologies and refining my testing skills.
 
 ## My projects
 <p align="center">
