@@ -1,10 +1,4 @@
 # Hi there! 👋 I'm QA Engineer Yura
-- 🔭 I've been working as QA Engineer since 2020
-- 📫 Contacts:
-
-<p>
-    <a href="https://t.me/Yuriymaiorov"><img width="35px" alt="Telegram" title="Telegram" src="icons/tg.png"/></a>
-</p>
 
 ## Hard skills:
 
@@ -17,9 +11,15 @@ I am a QA engineer with over 4 years of experience in testing of web, mobile app
 <p align="center">
 <a href="https://github.com/iimaiorov/wiki"><img width=45% title="UI automated tests for the Wikipedia mobile application using Selene, Appium, and Allure frameworks,BrowserStack, Android Studio" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=iimaiorov&repo=wiki&show_owner=true&theme=shadow_blue"></a>
 </p>
+
+## Contacts📫 :
+
+<p>
+    <a href="https://t.me/Yuriymaiorov"><img width="35px" alt="Telegram" title="Telegram" src="icons/tg.png"/></a>
+</p>
+
 <!--
 **iimaiorov/iimaiorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
