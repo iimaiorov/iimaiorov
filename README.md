@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm QA Engineer Yura
 ## ABOUT ME
-I am a QA engineer with over 4 years of experience in testing of web, mobile applications. I continuously invest in my professional development by staying current with emerging technologies and refining my testing skills.
+I am a QA engineer with over 5 years of experience in testing of web, mobile applications. I continuously invest in my professional development by staying current with emerging technologies and refining my testing skills.
 
 ## Stack:
 
@@ -14,7 +14,7 @@ I am a QA engineer with over 4 years of experience in testing of web, mobile app
 ## Contacts📫 :
 
 <p>
-    <a href="https://t.me/Yuriymaiorov"><img width="35px" alt="Telegram" title="Telegram" src="icons/tg.png"/></a>
+    <a href="https://t.me/Iuriimaiorov"><img width="35px" alt="Telegram" title="Telegram" src="icons/tg.png"/></a>
 </p>
 
 <!--
