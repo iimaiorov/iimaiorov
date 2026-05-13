@@ -1,12 +1,13 @@
-# Hi there! 👋 I'm QA Engineer Yura
+# Привет! 👋 Я Юра
 
+Пишу автотесты, тестирую API и люблю разбираться, как системы работают изнутри.  
+Интересуюсь QA automation, backend testing, CI/CD и применением AI в тестировании.
 
 ## Stack:
 
 <img src="icons/python_logo_and_wordmark.svg" height="40" width="40" /><img src="icons/requests.png" height="40" width="40" /><img src="icons/selenium.png" height="40" width="40" /><img src="icons/selene.png" height="40" width="40" /><img src="icons/selenoid.svg" height="40" width="40" /><img src="icons/pytest_logo.svg" height="40" width="40" /><img src="icons/allure_Report.svg" height="40" width="40" /><img src="icons/allure_EE.svg" height="40" width="40" /><img src="icons/jenkins.svg" height="40" width="40" /><img src="icons/docker.svg" height="40" width="40" /><img src="icons/appium.svg" height="40" width="40" /><img src="icons/browserstack.svg" height="40" width="40" /><img src="icons/jira.svg" height="40" width="40" />
 
 ## Contacts📫 :
-
 <p>
     <a href="https://t.me/Iuriimaiorov"><img width="35px" alt="Telegram" title="Telegram" src="icons/tg.png"/></a>
 </p>
